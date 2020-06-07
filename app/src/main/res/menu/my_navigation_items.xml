@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+
+    >
+
+    <group android:checkableBehavior="single"
+        android:enabled="true"
+        >
+
+    <item android:id="@+id/search0"
+        android:icon="@drawable/ic_settings_black_24dp"
+        android:title="setting"
+        app:showAsAction="ifRoom" />
+
+    <item android:id="@+id/search01"
+        android:icon="@drawable/ic_settings_black_24dp"
+        android:title="setting"
+        app:showAsAction="ifRoom" />
+
+    <item android:id="@+id/search"
+        android:icon="@drawable/ic_settings_black_24dp"
+        android:title="setting"
+        app:showAsAction="ifRoom" />
+
+    </group>
+<item android:title="cmmunicate">
+
+    <menu>
+    <item android:id="@+id/search2"
+        android:icon="@drawable/ic_settings_black_24dp"
+        android:title="setting"
+        app:showAsAction="ifRoom" />
+
+    <item android:id="@+id/search1"
+        android:icon="@drawable/ic_settings_black_24dp"
+        android:title="setting"
+        app:showAsAction="ifRoom" />
+
+    <item android:id="@+id/search3"
+        android:icon="@drawable/ic_settings_black_24dp"
+        android:title="setting"
+        app:showAsAction="ifRoom" />
+    </menu>
+</item>
+    <item android:id="@+id/search5"
+        android:icon="@drawable/ic_settings_black_24dp"
+        android:title="setting"
+        app:showAsAction="ifRoom" />
+
+    <item android:id="@+id/search6"
+        android:icon="@drawable/ic_settings_black_24dp"
+        android:title="setting"
+        app:showAsAction="ifRoom" />
+
+</menu>
